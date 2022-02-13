@@ -4,3 +4,4 @@ var hi ="hi" ;
 
 
 // again doing the same thing 
+//lucky the lucky
